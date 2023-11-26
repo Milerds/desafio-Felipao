@@ -1,7 +1,7 @@
 
 # DIO | Descobrindo o nível do Herói
 
-## DESAFIO🤓
+## DESAFIO JavaScript 🤓
 Em um determinado jogo, o herói precisa derrotar os vilões para adquirir XP - Pontos de Experiência - e subir seu nível.
 
 O desafio é simples, nomear o nosso personagem e encontrar seu nível de acordo com a quantidade de XP adquirida.
